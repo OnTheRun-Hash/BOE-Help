@@ -1,0 +1,10 @@
+Quick way to introduce it:
+
+“I put together a small idea for the counter. People could tap a sticker or scan a QR code and get straight to the voter services we answer questions about all day. It doesn't take any personal information or replace staff; it just makes the official resources easier to find. If it seems useful, maybe we could pilot one sign and see how people respond.”
+
+Demo order:
+1. Show the visitor page on your phone.
+2. Tap Check Registration or Find Polling Place.
+3. Switch to Spanish.
+4. Show the counter sign and explain that both NFC and QR open the same maintained page.
+5. Ask for feedback; don't present it as a completed county program.
